@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tisaac1
+- 👋 Hi, I’m @Tiff
 - 👀 I’m interested in ...expanding my software development skills
 - 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...CODING
