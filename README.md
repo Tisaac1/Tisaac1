@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...expanding my software development skills
 - 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...CODING
-- 📫 How to reach me ...
+- 📫 How to reach me ...tiffanytechdesk@gmail.com
 - 😄 Pronouns: ...She.Her
 - ⚡ Fun fact: ...
 
