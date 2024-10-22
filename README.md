@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tiff
-- 👀 I’m interested in ...expanding my software development skills
+- 👀 I’m interested in ...freelance software engineering
 - 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...CODING
 - 📫 How to reach me ...tiffanytechdesk@gmail.com
