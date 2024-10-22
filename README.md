@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tiff
 - 👀 I’m interested in ...freelance software engineering
-- 🌱 I’m currently learning ...javascript
-- 💞️ I’m looking to collaborate on ...CODING
+- 🌱 I’m currently learning ...programming
+- 💞️ I’m looking to collaborate on ...development
 - 📫 How to reach me ...tiffanytechdesk@gmail.com
 - 😄 Pronouns: ...She.Her
 - ⚡ Fun fact: ...
