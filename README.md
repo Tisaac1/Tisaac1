@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...development
 - 📫 How to reach me ...tiffanytechdesk@gmail.com
 - 😄 Pronouns: ...She.Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I attended Per Scholas!!! Feel free to follow me If you're a student/alumni
 
 <!---
 Tisaac1/Tisaac1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
